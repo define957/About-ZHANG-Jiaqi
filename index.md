@@ -8,8 +8,6 @@ Here are some ideas to get you started:
 
 🌱  I’m currently learning high-dimensional data inference, bayesian inference and Monte Carlo method.
 
- 
- 
- ###  How to reach me
+##  How to reach me
  
  📫 My Email is: <zhangjiaqi957957@outlook.com>
