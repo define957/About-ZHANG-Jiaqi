@@ -12,4 +12,4 @@ Here are some ideas to get you started:
  
  ###  How to reach me
  
- 📫 My Email is: zhangjiaqi957957@outlook.com
+ 📫 My Email is: <zhangjiaqi957957@outlook.com>
